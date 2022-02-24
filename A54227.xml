@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tears wip'd off, or, The second essay of the Quakers by way of poetry occasioned by the coronation of James and Mary / written in the sincerity of the spirit, by W.P., a servant to the light.</title>
+            <author>W. P., Servant to the light.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54227</idno>
+            <idno type="STC">Wing P138</idno>
+            <idno type="STC">ESTC R5325</idno>
+            <idno type="EEBO-CITATION">13084354</idno>
+            <idno type="OCLC">ocm 13084354</idno>
+            <idno type="VID">97280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97280)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 747:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tears wip'd off, or, The second essay of the Quakers by way of poetry occasioned by the coronation of James and Mary / written in the sincerity of the spirit, by W.P., a servant to the light.</title>
+                  <author>W. P., Servant to the light.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.P. for Henry Playford,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:97280:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <head>Tears Wip'd off, OR THE SECOND ESSAY OF THE QUAKERS BY WAY OF POETRY: <hi>Occaſioned by the</hi> CORONATION <hi>of</hi> JAMES and MARY.</head>
+            <byline>Written in the ſincerity of the Spirit, By <hi>W. P.</hi> a Servant to the <hi>Light.</hi>
+            </byline>
+            <lg>
+               <l>SOund loud ye Trumpets, now the <hi>Spirit</hi> move!</l>
+               <l>Of <hi>JAMES</hi> and <hi>MARY's Coronation</hi> ſpeak:</l>
+               <l>Yea—let it be the boundleſs ſp'rit of <hi>Love,</hi>
+               </l>
+               <l>That doth all <hi>diſcord</hi> in a Land forſake.</l>
+               <l>Therefore prepare your well-tun'd Inſtruments,</l>
+               <l>To <hi>Awe</hi> the minds of all our <hi>Male-contents;</hi>
+               </l>
+               <l>Joyn Holy <hi>Davids</hi> Harp, ye Loyal Quire,</l>
+               <l>To greet wiſe SOLOMON our <hi>New Crown'd</hi> King,</l>
+               <l>Stifle, with Heavenly Joy, Rebellions Fire,</l>
+               <l>And Songs of <hi>Triumph</hi> always to Him Sing.</l>
+               <l>Conſider how Wiſe <hi>JAMES</hi> hath harras'd been</l>
+               <l>By Murd'ring Swearers; ſuch ungodly Men</l>
+               <l>As would in <hi>JAMES,</hi> kill <hi>Charles</hi> the <hi>Firſt</hi> agen.</l>
+               <pb n="2" facs="tcp:97280:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->
+               <l>Eccho ye Heav'ns! and pow'rfull Lights diſplay,</l>
+               <l>To make more great Thy <hi>Coronation Day;</hi>
+               </l>
+               <l>Amazing all that dare ſuch <hi>Truth</hi> gain-ſay.</l>
+               <l>For <hi>we</hi> have now the <hi>fullneſs</hi> of the <hi>Light,</hi>
+               </l>
+               <l>Who long (like ſullen <hi>Jews</hi>) were veil'd in Night;</l>
+               <l>But, for the time to come, for <hi>Thee</hi> we'll <hi>Fight:</hi>
+               </l>
+               <l>Yea—girt a <hi>Carnal Weapon</hi> to our ſide,</l>
+               <l>To Chaſtize him shall Thee O King Deride.</l>
+               <l>
+                  <hi>Joaſh</hi> was ſav'd from <hi>Athaliahs</hi> Rage,</l>
+               <l>And by <hi>Jehojada</hi> the Prieſt was Crown'd,</l>
+               <l>Which in <hi>Judeah</hi> then was juſt preſage,</l>
+               <l>Plentiful Peace should mightily abound.</l>
+               <l>
+                  <hi>JAMES,</hi> now the only Ruler of this Land,</l>
+               <l>Was long preſerv'd from Plotters Murd'ring hand;</l>
+               <l>Both of <hi>Achitophel's</hi> and <hi>Belials</hi> Band.</l>
+               <l>What Mighty Joy ought we thy <hi>Friends</hi> to show,</l>
+               <l>That ſtill we have Thee <hi>JAMES,</hi> our King below.</l>
+               <l>Inſpire me now Thou mighty <hi>Sp'rit</hi> of <hi>Truth,</hi>
+               </l>
+               <l>That in ſome Meaſure we may here ſet forth</l>
+               <l>The Gracious Bleſſings we enjoy in <hi>JAMES,</hi>
+               </l>
+               <l>Whom all the World with us aloud Proclames.</l>
+               <l>Had that <hi>Corrupted</hi> Senate <hi>Charles</hi> o'reſwaid,</l>
+               <l>To push thee <hi>JAMES</hi> beſides thy <hi>Lawful Throne,</hi>
+               </l>
+               <l>All Thy whole Land had been to <hi>Blood</hi> betray'd;</l>
+               <l>Conqu'ring for Thee, that ſits in Peace thereon.</l>
+               <l>We therefore wish that <hi>diſobedient Crew</hi>
+               </l>
+               <l>May ſee their <hi>errour,</hi> and for <hi>Pardon</hi> ſue:</l>
+               <l>And we will Learn, — that Anthems we may Sing</l>
+               <l>With Hymns of Joy, for Second <hi>JAMES</hi> our King.</l>
+               <l>I do confeſs I've heard Phanatick ſlaves</l>
+               <l>Sorry that Thee O King eſcap'ſt with Life,</l>
+               <l>(Where <hi>many</hi> in the Ocean found their Graves)</l>
+               <l>When that great Ship ſtruck on the Sandy shelf.</l>
+               <l>But Heav'n (that has a more than common care</l>
+               <l>Of ſuch as <hi>Thee,</hi> who his <hi>Vicegerents</hi> are)</l>
+               <l>Secur'd Thee from the Surges of the Sea,</l>
+               <l>That thou might'ſt <hi>healer</hi> of our <hi>Breaches</hi> be.</l>
+               <pb n="3" facs="tcp:97280:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 54 -->
+               <l>Foreſeeing then, this days Solemnity:</l>
+               <l>That ſince no Monarch from the Grave is free,</l>
+               <l>We should Great <hi>JAMES</hi> rejoyce in Sacred Thee:</l>
+               <l>And (though unuſual) shout our praiſe to Heav'n,</l>
+               <l>That has a King ſo Potent to us giv'n.</l>
+               <l>One that hath <hi>David's</hi> Valour and Succeſs,</l>
+               <l>
+                  <hi>Solomon's</hi> Wiſdom, <hi>Hezekiah's</hi> Grace;</l>
+               <l>And may Thy Reign with Theirs take equal place.</l>
+               <l>Yea, let the Prophets Pray'r 'gainſt wicked Men,</l>
+               <l>Which <hi>Pſalm</hi> the <hi>Hundred</hi> and <hi>Ninth</hi> doth plainly ſpeak,</l>
+               <l>Be all Thy Enemies reward and gain;</l>
+               <l>Nay more, the mark of, <hi>Cain</hi> upon 'em break.</l>
+               <l>Not, but Thy <hi>Frown</hi> will <hi>Awe</hi> Thy worſt of Foes,</l>
+               <l>And then Thy <hi>Smiles</hi> will make 'em <hi>crouch</hi> with <hi>ſhame,</hi>
+               </l>
+               <l>But Thy Word paſt is ev'ry Mans repoſe;</l>
+               <l>Nay, he that <hi>doubts</hi> and <hi>knows</hi> Thee, wants a Name.</l>
+               <l>All this, and more, than we can e're <hi>hold forth,</hi>
+               </l>
+               <l>Or words can frame, O King, in Thee is found;</l>
+               <l>Time wants a Preſident to shew thy worth,</l>
+               <l>Yea, Languages a ſtile, and ſenſe a ſound.</l>
+               <l>In all the <hi>Holy Writ</hi> we do not find</l>
+               <l>Where to compare Thy <hi>Conſort</hi> equally,</l>
+               <l>As <hi>Ruth</hi> to <hi>Boaz,</hi> the ſame <hi>conſtant mind,</hi>
+               </l>
+               <l>
+                  <hi>MARY</hi> to <hi>JAMES;</hi> but greater the degree.</l>
+               <l>In ev'ry trouble which Thou bar'ſt from Men,</l>
+               <l>Whoſe Faith in things inviſible did ly;</l>
+               <l>How then was <hi>MARY,</hi> with a face Serene,</l>
+               <l>Partner in all Thy worſt extremity?</l>
+               <l>When <hi>ſtrange Commiſſions</hi> never <hi>ſeen</hi> nor <hi>Read,</hi>
+               </l>
+               <l>Arm'd with <hi>Black Bills</hi> in <hi>Spaniſh Pilgrims</hi> hands;</l>
+               <l>When Truth Inviſible with <hi>Oates</hi> did plead,</l>
+               <l>
+                  <hi>Purbeck</hi> Invaders did infeſt our Lands:</l>
+               <l>Thou <hi>JAMES</hi> with <hi>MARY</hi> now our preſent <hi>Queen,</hi>
+               </l>
+               <l>Did'ſt Reign ſecure, as on the Throne thoud'ſt been,</l>
+               <l>Beauty and Honour ſtill did guard Thee then.</l>
+               <pb n="4" facs="tcp:97280:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 55 -->
+               <l>
+                  <hi>MARY</hi> to <hi>either</hi> fitly is compar'd,</l>
+               <l>Becauſe in goodneſs ſomething they agree,</l>
+               <l>But we from <hi>Truth</hi> will never be debar'd;</l>
+               <l>For there's between 'em <hi>Inequality:</hi>
+               </l>
+               <l>Which muſt with <hi>MARY's Crown</hi> be now put on,</l>
+               <l>The <hi>beſt</hi> of <hi>Queens</hi> that ever Grac'd a Throne.</l>
+               <l>
+                  <hi>Zadock</hi> the Prieſt the <hi>Holy Oyl</hi> has us'd,</l>
+               <l>The ſight was <hi>gratefull</hi> to thy Servants—<hi>King;</hi>
+               </l>
+               <l>We have the <hi>Temple</hi> of the <hi>Lord</hi> abus'd;</l>
+               <l>Now, we <hi>rejoyce</hi> to hear 'em <hi>ſhout</hi> and <hi>Sing.</hi>
+               </l>
+               <l>Yea, then I ſaid! <hi>how have we gone aſtray?</hi>
+               </l>
+               <l>
+                  <hi>Miſled by Darkneſs from the Light of Day;</hi>
+               </l>
+               <l>Then thus for <hi>JAMES</hi> and <hi>MARY</hi> did I Pray.</l>
+               <l>
+                  <hi>That God would</hi> great Increaſe <hi>unto 'em give</hi>
+               </l>
+               <l>
+                  <hi>That a Long Race of Kings might them ſurvive;</hi>
+               </l>
+               <l>
+                  <hi>That from their Loyns a</hi> Prince of Wales <hi>may come,</hi>
+               </l>
+               <l>
+                  <hi>To</hi> Conquer <hi>Foes</hi> abroad; win <hi>them at</hi> home:</l>
+               <l>
+                  <hi>That here, not</hi> one <hi>diſloyal Heart may be;</hi>
+               </l>
+               <l>
+                  <hi>But</hi> all <hi>might</hi> own <hi>and bleſs</hi> this <hi>Monarchy.</hi>
+               </l>
+               <l>Let Thy great <hi>Act of Grace</hi> thoſe people free</l>
+               <l>Whoſe <hi>Light</hi> was <hi>Dim,</hi> for now the <hi>Sun</hi> they <hi>See;</hi>
+               </l>
+               <l>But let <hi>Plot-Vouchers</hi> grace the Triple Tree.</l>
+               <l>We unacquainted are with mighty ſhow,</l>
+               <l>But if our ſenſe of this <hi>Thou</hi> wilt allow,</l>
+               <l>We could diſpence had it been <hi>greater</hi> now.</l>
+               <l>We <hi>fooliſh faults</hi> had, <hi>JAMES,</hi> and not a <hi>few;</hi>
+               </l>
+               <l>But 'mongſt the <hi>Kings</hi> the <hi>Bible</hi> doth afford,</l>
+               <l>More than <hi>their</hi> greateſt <hi>Glory</hi> is <hi>Thy due;</hi>
+               </l>
+               <l>For a Kings Splendour ſpeaks him like his word.</l>
+               <l>We ne're ſhall Poets for <hi>Deſcription</hi> grow,</l>
+               <l>We leave all that to <hi>Authors</hi> that beſtow</l>
+               <l>On <hi>Kings</hi> their Talent, and <hi>Uſurpers</hi> too.</l>
+               <l>
+                  <hi>Walk</hi> with the <hi>People,</hi> and the <hi>Rebels</hi> guide;</l>
+               <l>And then the Godlike <hi>Royal ones</hi> deride:</l>
+               <l>Though now they <hi>fa<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and <hi>flatter</hi> on their ſide.</l>
+               <l>We ſay, Preſerve thee <hi>JAMES,</hi> thy <hi>CONSORT</hi> ſo,</l>
+               <l>From ſuch <hi>Time-ſervers,</hi> bowing but for ſhow,</l>
+               <l>We from Great <hi>Natures Light</hi> are <hi>Loyal</hi> now.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. P.</hi> for <hi>Henry Playford,</hi> near the <hi>Temple</hi>-Church: 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
